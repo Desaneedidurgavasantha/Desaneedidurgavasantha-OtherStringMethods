@@ -35,7 +35,7 @@ public class OtherStringMethods {
      * will return an array that contains {"my", "favorite", "sentence"}.
      * @param s1 the string to be manipulated.
      * @param splitAround the string that will be the text that s1 is split around (eg, for dividing a sentence into
-     *                    words we use " ".
+     *  words we use " ".
      * @return an array of Strings that represent s1 split by splitAround.
      */
     public String[] splitStringIntoMultipleStrings(String s1, String splitAround) {
