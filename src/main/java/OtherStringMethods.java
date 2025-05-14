@@ -3,7 +3,7 @@
  */
 public class OtherStringMethods {
     /**
-     * Substring will become an important part of solving puzzles with strings. It allows you to get part of a string
+     * Substring will becometant part of solving puzzles with strings. It allows you to get part of a string
      * - eg, substring(0,3) of "banana" is "ban". (first number inclusive, second number exclusive.)
      * @param s the string to be manipulated
      * @param start the index of the start of the substring, inclusive.
